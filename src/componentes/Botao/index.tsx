@@ -1,6 +1,6 @@
 import './botao.css'
 
-import React, { ReactElement } from 'react'
+import { ReactElement } from 'react'
 
 interface BotaoProps {
     children: ReactElement | string
